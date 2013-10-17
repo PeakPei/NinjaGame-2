@@ -1,0 +1,817 @@
+TSpriteKitSimpleGame
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/PrecompiledHeaders/SpriteKitSimpleGame-Prefix-brhhmpiaptsyfdcfmznjhsjcwdbk/SpriteKitSimpleGame-Prefix.pch.pch SpriteKitSimpleGame/SpriteKitSimpleGame-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/main.o /Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/dwAppDelegate.o /Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/dwAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/GameOverScene.o /Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/GameOverScene.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/dwViewController.o /Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/dwViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/dwMyScene.o /Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/dwMyScene.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/SpriteKitSimpleGame normal i386
+cGenerateDSYMFile /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app.dSYM /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/SpriteKitSimpleGame
+cCpResource SpriteKitSimpleGame/Sounds/background-music-aac.caf DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/background-music-aac.caf
+cCopyStringsFile /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/en.lproj/InfoPlist.strings SpriteKitSimpleGame/en.lproj/InfoPlist.strings
+cCpResource SpriteKitSimpleGame/Spaceship.png DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/Spaceship.png
+cCompileStoryboard /Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/Base.lproj/Main.storyboard
+cCpResource SpriteKitSimpleGame/Sounds/pew-pew-lei.caf DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/pew-pew-lei.caf
+cCompileAssetCatalog /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app /Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/Images.xcassets
+cGenerating texture atlas from /Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/sprites.atlas
+cProcessInfoPlistFile /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/Info.plist /Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/SpriteKitSimpleGame-Info.plist
+cTouch /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000521BCCE50000000000000176
+t1377553637
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c00000000523A8FDA00000000000003B5
+t1379569626
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000523A8FDF000000000000019E
+t1379569631
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000523A8FE10000000000583810
+t1379569633
+s5781520
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000523A8FE100000000005B82A0
+t1379569633
+s5997216
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000523A8FE10000000000445830
+t1379569633
+s4479024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c00000000523A8FE10000000000355270
+t1379569633
+s3494512
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c00000000523A8FE100000000002F4800
+t1379569633
+s3098624
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c00000000523A8FE1000000000004B000
+t1379569633
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000523A8FE2000000000088B570
+t1379569634
+s8959344
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c00000000523A8FE20000000000037620
+t1379569634
+s226848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000523A8FE30000000000484860
+t1379569635
+s4737120
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+c00000000523A8FE30000000000127E10
+t1379569635
+s1211920
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/SpriteKit.framework/SpriteKit
+c00000000523A8FE30000000000247020
+t1379569635
+s2388000
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000523A8FE50000000001DB1C90
+t1379569637
+s31136912
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c00000000523A8FEC00000000002B9E80
+t1379569644
+s2858624
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+c00000000523A8FF00000000000002338
+t1379569648
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+c00000000523A8FF0000000000008D300
+t1379569648
+s578304
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+c00000000523A8FF0000000000038ACB0
+t1379569648
+s3714224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+c000000005013245800000000000121D0
+t1343431768
+s74192
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+c00000000523A8FF00000000000013500
+t1379569648
+s79104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c00000000523A8FF00000000000033BA0
+t1379569648
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c00000000523A8FF0000000000001CFB0
+t1379569648
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+c00000000523A8FF0000000000001B2B0
+t1379569648
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+c00000000523A8FF000000000000632B0
+t1379569648
+s406192
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+c00000000523A8FF00000000000008880
+t1379569648
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+c00000000523A8FF00000000000015080
+t1379569648
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+c00000000523A8FF000000000000230E0
+t1379569648
+s143584
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+c00000000523A8FF0000000000000E380
+t1379569648
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+c00000000523A8FF00000000000087200
+t1379569648
+s553472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+c00000000523A8FF000000000000171A0
+t1379569648
+s94624
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c00000000523A8FF00000000000039C10
+t1379569648
+s236560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c00000000523A8FF0000000000000B0B0
+t1379569648
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+c00000000523A8FF00000000000167FE0
+t1379569648
+s1474528
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c00000000523A8FF000000000000106A0
+t1379569648
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c00000000523A8FF0000000000001CE40
+t1379569648
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+c00000000523A8FF00000000000071040
+t1379569648
+s462912
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+c00000000523A8FF00000000000067A10
+t1379569648
+s424464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+c00000000523A8FF0000000000001BAD0
+t1379569648
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+c00000000523A8FF00000000000088BA0
+t1379569648
+s560032
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c00000000523A8FF60000000000000AC9
+t1379569654
+s2761
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+c00000000523A8FF60000000000005004
+t1379569654
+s20484
+
+N/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/PrecompiledHeaders/SpriteKitSimpleGame-Prefix-brhhmpiaptsyfdcfmznjhsjcwdbk/SpriteKitSimpleGame-Prefix.pch.pch
+t1382043937
+s115304
+
+N/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/GameOverScene.o
+t1382052328
+s51412
+
+N/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/SpriteKitSimpleGame.LinkFileList
+c00000000526071E80000000000000406
+t1382052328
+s1030
+
+N/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/dwAppDelegate.o
+t1382043937
+s65356
+
+N/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/dwMyScene.o
+t1382052328
+s77180
+
+N/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/dwViewController.o
+t1382052329
+s52920
+
+N/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/main.o
+t1382043937
+s3696
+
+N/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/assetcatalog_dependencies.txt
+t1382043938
+s539
+
+N/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/assetcatalog_generated_info.plist
+t1382043938
+s525
+
+N/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app
+t1382052329
+s442
+
+N/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app.dSYM
+t1382051629
+s102
+
+N/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/Base.lproj/Main.storyboardc
+t1382043938
+s170
+
+N/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/Info.plist
+t1382044175
+s1038
+
+N/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/PkgInfo
+t1382044175
+s8
+
+N/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/Spaceship.png
+t1382043937
+s134723
+
+N/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/SpriteKitSimpleGame
+t1382052329
+s41640
+
+N/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/background-music-aac.caf
+t1382044642
+s260824
+
+N/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/en.lproj/InfoPlist.strings
+t1382043937
+s42
+
+N/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/pew-pew-lei.caf
+t1382044642
+s53504
+
+N/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/sprites.plist
+t2
+s0
+
+N/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/sprites.png
+t2
+s0
+
+N/Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/Base.lproj/Main.storyboard
+c0000000052604ECD0000000000000631
+t1382043341
+s1585
+
+N/Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/GameOverScene.m
+c00000000526071E800000000000005A4
+t1382052328
+s1444
+
+N/Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/Images.xcassets
+c0000000052604ECD0000000000000088
+t1382043341
+s136
+
+N/Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/Sounds/background-music-aac.caf
+c0000000051BF83D0000000000003FAD8
+t1371505616
+s260824
+
+N/Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/Sounds/pew-pew-lei.caf
+c0000000051BF83D0000000000000D100
+t1371505616
+s53504
+
+N/Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/Spaceship.png
+c00000000521B1C260000000000020E43
+t1377508390
+s134723
+
+N/Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/SpriteKitSimpleGame-Info.plist
+c000000005260520800000000000004B8
+t1382044168
+s1208
+
+N/Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/SpriteKitSimpleGame-Prefix.pch
+c0000000052604ECD0000000000000158
+t1382043341
+s344
+
+N/Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/dwAppDelegate.h
+c0000000052604ECD000000000000011D
+t1382043341
+s285
+
+N/Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/dwAppDelegate.m
+c0000000052604ECD00000000000007E1
+t1382043341
+s2017
+
+N/Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/dwMyScene.h
+c0000000052604ECD00000000000000A9
+t1382043341
+s169
+
+N/Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/dwMyScene.m
+c00000000526071E80000000000001D88
+t1382052328
+s7560
+
+N/Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/dwViewController.h
+c0000000052604ECD00000000000000D8
+t1382043341
+s216
+
+N/Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/dwViewController.m
+c00000000526071E800000000000006A9
+t1382052328
+s1705
+
+N/Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/en.lproj/InfoPlist.strings
+c0000000052604ECD000000000000002D
+t1382043341
+s45
+
+N/Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/main.m
+c0000000052604ECD0000000000000159
+t1382043341
+s345
+
+N/Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/sprites.atlas
+c0000000051BF83D00000000000000110
+t1371505616
+s272
+
+N/usr/lib/libSystem.B.dylib
+c000000005013244C000000000000D2A0
+t1343431756
+s53920
+
+N/usr/lib/system/libcache.dylib
+c00000000501324580000000000013870
+t1343431768
+s79984
+
+N/usr/lib/system/libcommonCrypto.dylib
+c000000005144EA040000000000030250
+t1363470852
+s197200
+
+N/usr/lib/system/libcompiler_rt.dylib
+c000000005013244C0000000000017910
+t1343431756
+s96528
+
+N/usr/lib/system/libcopyfile.dylib
+c0000000050132457000000000001A130
+t1343431767
+s106800
+
+N/usr/lib/system/libdnsinfo.dylib
+c000000005144EA04000000000000C2A0
+t1363470852
+s49824
+
+N/usr/lib/system/libkeymgr.dylib
+c00000000501324580000000000008CE0
+t1343431768
+s36064
+
+N/usr/lib/system/liblaunch.dylib
+c00000000505A30CF000000000001D350
+t1348088015
+s119632
+
+N/usr/lib/system/libmacho.dylib
+c00000000501324570000000000014F90
+t1343431767
+s85904
+
+N/usr/lib/system/libquarantine.dylib
+c0000000051B664C7000000000000D790
+t1370907847
+s55184
+
+N/usr/lib/system/libremovefile.dylib
+c000000005144EA04000000000000C330
+t1363470852
+s49968
+
+N/usr/lib/system/libsystem_blocks.dylib
+c0000000050132458000000000000A080
+t1343431768
+s41088
+
+N/usr/lib/system/libsystem_c.dylib
+c000000005237FA1600000000001F91C0
+t1379400214
+s2068928
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c0000000051B664C7000000000001BC00
+t1370907847
+s113664
+
+N/usr/lib/system/libsystem_info.dylib
+c000000005013244C000000000008B580
+t1343431756
+s570752
+
+N/usr/lib/system/libsystem_kernel.dylib
+c000000005253749700000000000569B0
+t1381201047
+s354736
+
+N/usr/lib/system/libsystem_m.dylib
+c000000005013244C0000000000070540
+t1343431756
+s460096
+
+N/usr/lib/system/libsystem_notify.dylib
+c000000005013244C0000000000025620
+t1343431756
+s153120
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c0000000051B664C7000000000000C780
+t1370907847
+s51072
+
+N/usr/lib/system/libunc.dylib
+c0000000050132453000000000000D430
+t1343431763
+s54320
+
+N/usr/lib/system/libunwind.dylib
+c0000000050132458000000000001BAA0
+t1343431768
+s113312
+
+CBuild AST from /Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/GameOverScene.m
+r0
+
+CBuild AST from /Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/dwAppDelegate.m
+r0
+
+CBuild AST from /Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/dwMyScene.m
+r0
+
+CBuild AST from /Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/dwViewController.m
+r0
+
+CBuild AST from /Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies7c2c9968a910b841^7809a268a910b841^---0#1#1#--18"Check dependencies36"5F2F69D1-741E-4D71-93E4-69D98480AE82-
+
+CCompileAssetCatalog /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app /Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/Images.xcassets
+s403736737.909587
+e403736738.618535
+r1
+xCompileAssetCatalog
+x/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app
+x/Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/Images.xcassets
+o2013-10-17 14:05:38.546 IBCocoaTouchImageCatalogTool[70828:303] CFPreferences: user home directory at file:///Users/TheDavid/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o/* com.apple.actool.compilation-results */
+o/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/LaunchImage-700-568h@2x.png
+o/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/Assets.car
+o/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection148"CompileAssetCatalog DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app SpriteKitSimpleGame/Images.xcassets148"CompileAssetCatalog DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app SpriteKitSimpleGame/Images.xcassets0ef8e8a18810b841^82589ea28810b841^-794"2013-10-17 14:05:38.546 IBCocoaTouchImageCatalogTool[70828:303] CFPreferences: user home directory at file:///Users/TheDavid/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile./* com.apple.actool.compilation-results *//Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/LaunchImage-700-568h@2x.png/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/Assets.car/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@98"file://localhost/Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/Images.xcassets/0000000000000000^1397"CompileAssetCatalog DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app SpriteKitSimpleGame/Images.xcassets    cd /Users/TheDavid/Developer/SpriteKitSimpleGame    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app /Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/Images.xcassets36"36F7BA9C-564C-45FC-9983-5C00860E61BF-
+bDB33F77F-BEB8-46A9-84CD-F4773361A906
+
+CCompileC DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/GameOverScene.o /Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/GameOverScene.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403745128.636252
+e403745128.702743
+r1
+xCompileC
+xDerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/GameOverScene.o
+x/Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/GameOverScene.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/GameOverScene.m
+d/Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/GameOverScene.h
+d/Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/dwMyScene.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/GameOverScene.m274"CompileC DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/GameOverScene.o SpriteKitSimpleGame/GameOverScene.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compileref00a368a910b841^82e6b368a910b841^---0#0#1#-19%DVTDocumentLocation2@97"file://localhost/Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/GameOverScene.m0000000000000000^4510"CompileC DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/GameOverScene.o SpriteKitSimpleGame/GameOverScene.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/TheDavid/Developer/SpriteKitSimpleGame    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/SpriteKitSimpleGame-generated-files.hmap -I/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/SpriteKitSimpleGame-own-target-headers.hmap -I/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/SpriteKitSimpleGame-all-target-headers.hmap -iquote /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/SpriteKitSimpleGame-project-headers.hmap -I/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/DerivedSources/i386 -I/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/DerivedSources -F/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator -include /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/PrecompiledHeaders/SpriteKitSimpleGame-Prefix-brhhmpiaptsyfdcfmznjhsjcwdbk/SpriteKitSimpleGame-Prefix.pch -MMD -MT dependencies -MF /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/GameOverScene.d --serialize-diagnostics /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/GameOverScene.dia -c /Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/GameOverScene.m -o /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/GameOverScene.o36"37F575FF-4BF2-4539-81FE-D756E789C61A-
+b46A0F6D0-8441-47D1-946E-3B153372BE8F
+
+CCompileC DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/dwAppDelegate.o /Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/dwAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403736737.768544
+e403736737.834040
+r1
+xCompileC
+xDerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/dwAppDelegate.o
+x/Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/dwAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/dwAppDelegate.m
+d/Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/dwAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/dwAppDelegate.m274"CompileC DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/dwAppDelegate.o SpriteKitSimpleGame/dwAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler21e4c4a18810b841^9084d5a18810b841^---0#0#1#-19%DVTDocumentLocation2@97"file://localhost/Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/dwAppDelegate.m0000000000000000^4510"CompileC DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/dwAppDelegate.o SpriteKitSimpleGame/dwAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/TheDavid/Developer/SpriteKitSimpleGame    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/SpriteKitSimpleGame-generated-files.hmap -I/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/SpriteKitSimpleGame-own-target-headers.hmap -I/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/SpriteKitSimpleGame-all-target-headers.hmap -iquote /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/SpriteKitSimpleGame-project-headers.hmap -I/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/DerivedSources/i386 -I/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/DerivedSources -F/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator -include /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/PrecompiledHeaders/SpriteKitSimpleGame-Prefix-brhhmpiaptsyfdcfmznjhsjcwdbk/SpriteKitSimpleGame-Prefix.pch -MMD -MT dependencies -MF /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/dwAppDelegate.d --serialize-diagnostics /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/dwAppDelegate.dia -c /Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/dwAppDelegate.m -o /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/dwAppDelegate.o36"DE8B79A7-532C-47E0-95C6-6B1353B10957-
+bDB33F77F-BEB8-46A9-84CD-F4773361A906
+
+CCompileC DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/dwMyScene.o /Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/dwMyScene.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403745128.636287
+e403745128.726673
+r1
+xCompileC
+xDerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/dwMyScene.o
+x/Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/dwMyScene.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/dwMyScene.m
+d/Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/dwMyScene.h
+d/Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/GameOverScene.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/dwMyScene.m266"CompileC DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/dwMyScene.o SpriteKitSimpleGame/dwMyScene.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8202a368a910b841^2d07ba68a910b841^---0#0#1#-19%DVTDocumentLocation2@93"file://localhost/Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/dwMyScene.m0000000000000000^4486"CompileC DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/dwMyScene.o SpriteKitSimpleGame/dwMyScene.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/TheDavid/Developer/SpriteKitSimpleGame    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/SpriteKitSimpleGame-generated-files.hmap -I/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/SpriteKitSimpleGame-own-target-headers.hmap -I/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/SpriteKitSimpleGame-all-target-headers.hmap -iquote /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/SpriteKitSimpleGame-project-headers.hmap -I/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/DerivedSources/i386 -I/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/DerivedSources -F/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator -include /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/PrecompiledHeaders/SpriteKitSimpleGame-Prefix-brhhmpiaptsyfdcfmznjhsjcwdbk/SpriteKitSimpleGame-Prefix.pch -MMD -MT dependencies -MF /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/dwMyScene.d --serialize-diagnostics /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/dwMyScene.dia -c /Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/dwMyScene.m -o /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/dwMyScene.o36"3FC84ECD-E5EA-4D40-B81A-E481EA4D1D62-
+b46A0F6D0-8441-47D1-946E-3B153372BE8F
+
+CCompileC DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/dwViewController.o /Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/dwViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403745128.636269
+e403745129.015834
+r1
+xCompileC
+xDerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/dwViewController.o
+x/Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/dwViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/dwViewController.m
+d/Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/dwViewController.h
+d/Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/dwMyScene.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/dwViewController.m280"CompileC DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/dwViewController.o SpriteKitSimpleGame/dwViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2e02a368a910b841^0e100469a910b841^---0#0#1#-19%DVTDocumentLocation2@100"file://localhost/Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/dwViewController.m0000000000000000^4528"CompileC DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/dwViewController.o SpriteKitSimpleGame/dwViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/TheDavid/Developer/SpriteKitSimpleGame    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/SpriteKitSimpleGame-generated-files.hmap -I/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/SpriteKitSimpleGame-own-target-headers.hmap -I/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/SpriteKitSimpleGame-all-target-headers.hmap -iquote /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/SpriteKitSimpleGame-project-headers.hmap -I/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/DerivedSources/i386 -I/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/DerivedSources -F/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator -include /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/PrecompiledHeaders/SpriteKitSimpleGame-Prefix-brhhmpiaptsyfdcfmznjhsjcwdbk/SpriteKitSimpleGame-Prefix.pch -MMD -MT dependencies -MF /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/dwViewController.d --serialize-diagnostics /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/dwViewController.dia -c /Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/dwViewController.m -o /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/dwViewController.o36"1E74CAC4-13BB-432B-B878-D57790E94482-
+b46A0F6D0-8441-47D1-946E-3B153372BE8F
+
+CCompileC DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/main.o /Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403736737.768543
+e403736737.800607
+r1
+xCompileC
+xDerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/main.o
+x/Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/main.m
+d/Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/dwAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/main.m256"CompileC DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/main.o SpriteKitSimpleGame/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerdbe0c4a18810b841^2cf5cca18810b841^---0#0#1#-19%DVTDocumentLocation2@88"file://localhost/Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/main.m0000000000000000^4456"CompileC DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/main.o SpriteKitSimpleGame/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/TheDavid/Developer/SpriteKitSimpleGame    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/SpriteKitSimpleGame-generated-files.hmap -I/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/SpriteKitSimpleGame-own-target-headers.hmap -I/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/SpriteKitSimpleGame-all-target-headers.hmap -iquote /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/SpriteKitSimpleGame-project-headers.hmap -I/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/DerivedSources/i386 -I/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/DerivedSources -F/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator -include /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/PrecompiledHeaders/SpriteKitSimpleGame-Prefix-brhhmpiaptsyfdcfmznjhsjcwdbk/SpriteKitSimpleGame-Prefix.pch -MMD -MT dependencies -MF /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/main.dia -c /Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/main.m -o /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/main.o36"607DDE58-1460-47F5-9329-706F756D4EC8-
+bDB33F77F-BEB8-46A9-84CD-F4773361A906
+
+CCompileStoryboard /Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/Base.lproj/Main.storyboard
+s403736737.909568
+e403736739.035771
+r1
+xCompileStoryboard
+x/Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/Base.lproj/Main.storyboard
+o2013-10-17 14:05:38.568 Interface Builder Cocoa Touch Tool[70827:303] CFPreferences: user home directory at file:///Users/TheDavid/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"CompileStoryboard SpriteKitSimpleGame/Base.lproj/Main.storyboard64"CompileStoryboard SpriteKitSimpleGame/Base.lproj/Main.storyboard5beee8a18810b841^302a09a38810b841^-233"2013-10-17 14:05:38.568 Interface Builder Cocoa Touch Tool[70827:303] CFPreferences: user home directory at file:///Users/TheDavid/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@108"file://localhost/Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/Base.lproj/Main.storyboard0000000000000000^928"CompileStoryboard SpriteKitSimpleGame/Base.lproj/Main.storyboard    cd /Users/TheDavid/Developer/SpriteKitSimpleGame    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/Base.lproj/Main.storyboardc /Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/Base.lproj/Main.storyboard36"20DF5F68-1E2D-4754-B818-6743B4428E51-
+bDB33F77F-BEB8-46A9-84CD-F4773361A906
+
+CCopyStringsFile /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/en.lproj/InfoPlist.strings SpriteKitSimpleGame/en.lproj/InfoPlist.strings
+s403736737.909550
+e403736737.913242
+r1
+xCopyStringsFile
+x/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/en.lproj/InfoPlist.strings
+xSpriteKitSimpleGame/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy SpriteKitSimpleGame/en.lproj/InfoPlist.strings182"CopyStringsFile DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/en.lproj/InfoPlist.strings SpriteKitSimpleGame/en.lproj/InfoPlist.strings7ff5e8a18810b841^d1cae9a18810b841^---0#0#1#-19%DVTDocumentLocation2@108"file://localhost/Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/en.lproj/InfoPlist.strings0000000000000000^719"CopyStringsFile DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/en.lproj/InfoPlist.strings SpriteKitSimpleGame/en.lproj/InfoPlist.strings    cd /Users/TheDavid/Developer/SpriteKitSimpleGame    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/en.lproj -- SpriteKitSimpleGame/en.lproj/InfoPlist.strings36"FEBF9B94-5BC9-4354-9EF7-ABE97D4C32D8-
+bDB33F77F-BEB8-46A9-84CD-F4773361A906
+
+CCpResource SpriteKitSimpleGame/Sounds/background-music-aac.caf DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/background-music-aac.caf
+s403737442.277145
+e403737442.283150
+r1
+xCpResource
+xSpriteKitSimpleGame/Sounds/background-music-aac.caf
+xDerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/background-music-aac.caf
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Copy DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/background-music-aac.caf180"CpResource SpriteKitSimpleGame/Sounds/background-music-aac.caf DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/background-music-aac.cafab0847628b10b841^317a4a628b10b841^---0#0#1#-19%DVTDocumentLocation2@179"file://localhost/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/background-music-aac.caf0038ece9deffdf42^778"CpResource SpriteKitSimpleGame/Sounds/background-music-aac.caf DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/background-music-aac.caf    cd /Users/TheDavid/Developer/SpriteKitSimpleGame    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/Sounds/background-music-aac.caf /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app36"E6B1179B-3518-4655-8297-AE9D81AF9988-
+b3540A5F6-1878-4997-9CE0-6692D2EBB08E
+
+CCpResource SpriteKitSimpleGame/Sounds/pew-pew-lei.caf DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/pew-pew-lei.caf
+s403737442.277182
+e403737442.280213
+r1
+xCpResource
+xSpriteKitSimpleGame/Sounds/pew-pew-lei.caf
+xDerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/pew-pew-lei.caf
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Copy DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/pew-pew-lei.caf162"CpResource SpriteKitSimpleGame/Sounds/pew-pew-lei.caf DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/pew-pew-lei.caf810647628b10b841^ef754a628b10b841^---0#0#1#-19%DVTDocumentLocation2@170"file://localhost/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/pew-pew-lei.caf0038ece9deffdf42^751"CpResource SpriteKitSimpleGame/Sounds/pew-pew-lei.caf DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/pew-pew-lei.caf    cd /Users/TheDavid/Developer/SpriteKitSimpleGame    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/Sounds/pew-pew-lei.caf /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app36"27B308AF-DA3B-49D0-AC2F-428DBAF7686D-
+b3540A5F6-1878-4997-9CE0-6692D2EBB08E
+
+CCpResource SpriteKitSimpleGame/Spaceship.png DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/Spaceship.png
+s403736737.909554
+e403736737.914622
+r1
+xCpResource
+xSpriteKitSimpleGame/Spaceship.png
+xDerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/Spaceship.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Copy DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/Spaceship.png151"CpResource SpriteKitSimpleGame/Spaceship.png DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/Spaceship.pnga1f5e8a18810b841^2025eaa18810b841^---0#0#1#-19%DVTDocumentLocation2@168"file://localhost/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/Spaceship.png0038ece9deffdf42^731"CpResource SpriteKitSimpleGame/Spaceship.png DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/Spaceship.png    cd /Users/TheDavid/Developer/SpriteKitSimpleGame    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/Spaceship.png /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app36"F37F3054-D757-42AE-8ABF-6E19B5FAD03B-
+bDB33F77F-BEB8-46A9-84CD-F4773361A906
+
+CGenerateDSYMFile /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app.dSYM /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/SpriteKitSimpleGame
+s403745129.073402
+e403745129.094284
+r1
+xGenerateDSYMFile
+x/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app.dSYM
+x/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/SpriteKitSimpleGame
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection152"Generate /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app.dSYM227"GenerateDSYMFile DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app.dSYM DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/SpriteKitSimpleGame8cd91269a910b841^c8231869a910b841^---0#0#1#-19%DVTDocumentLocation2@160"file://localhost/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app.dSYM/0000000000000000^882"GenerateDSYMFile DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app.dSYM DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/SpriteKitSimpleGame    cd /Users/TheDavid/Developer/SpriteKitSimpleGame    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/SpriteKitSimpleGame -o /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app.dSYM36"080DCABD-2EA9-4D01-B3C3-3511B73F68E9-
+b46A0F6D0-8441-47D1-946E-3B153372BE8F
+
+CGenerating texture atlas from /Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/sprites.atlas
+s403745129.102327
+e403745129.116855
+r1
+xGenerating
+xtexture
+xatlas
+xfrom
+x/Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/sprites.atlas
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Generating texture atlas from SpriteKitSimpleGame/sprites.atlas63"Generating texture atlas from SpriteKitSimpleGame/sprites.atlas21401a69a910b841^faef1d69a910b841^---0#0#1#-19%DVTDocumentLocation2@96"file://localhost/Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/sprites.atlas/0000000000000000^608"Generating texture atlas from SpriteKitSimpleGame/sprites.atlas    cd /Users/TheDavid/Developer/SpriteKitSimpleGame    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Tools/../usr/bin/TextureAtlas /Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/sprites.atlas /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app36"443B0508-3A81-42EE-9B48-56ED2CE17041-
+b46A0F6D0-8441-47D1-946E-3B153372BE8F
+
+CLd /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/SpriteKitSimpleGame normal i386
+s403745129.025158
+e403745129.064555
+r1
+xLd
+x/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/SpriteKitSimpleGame
+xnormal
+xi386
+d/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/SpriteKitSimpleGame.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/GameOverScene.o
+d/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/dwViewController.o
+d/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/dwMyScene.o
+d/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/main.o
+d/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/dwAppDelegate.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/SpriteKit.framework/SpriteKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreMIDI.framework/CoreMIDI
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/MediaToolbox.framework/MediaToolbox
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libdnsinfo.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection163"Link /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/SpriteKitSimpleGame127"Ld DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/SpriteKitSimpleGame normal i3864d830669a910b841^09891069a910b841^---0#0#1#--1764"Ld DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/SpriteKitSimpleGame normal i386    cd /Users/TheDavid/Developer/SpriteKitSimpleGame    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator -F/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator -filelist /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/SpriteKitSimpleGame.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework SpriteKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/Objects-normal/i386/SpriteKitSimpleGame_dependency_info.dat -o /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/SpriteKitSimpleGame36"06929B5A-39F3-44AD-81AD-27F580593BCA-
+b46A0F6D0-8441-47D1-946E-3B153372BE8F
+
+CProcessInfoPlistFile /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/Info.plist /Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/SpriteKitSimpleGame-Info.plist
+s403736975.137293
+e403736975.140456
+r1
+xProcessInfoPlistFile
+x/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/Info.plist
+x/Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/SpriteKitSimpleGame-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Process /Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/SpriteKitSimpleGame-Info.plist175"ProcessInfoPlistFile DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/Info.plist SpriteKitSimpleGame/SpriteKitSimpleGame-Info.plist7234238f8910b841^62f5238f8910b841^---0#0#1#-19%DVTDocumentLocation2@112"file://localhost/Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/SpriteKitSimpleGame-Info.plist0000000000000000^1153"ProcessInfoPlistFile DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/Info.plist SpriteKitSimpleGame/SpriteKitSimpleGame-Info.plist    cd /Users/TheDavid/Developer/SpriteKitSimpleGame    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/SpriteKitSimpleGame-Info.plist -genpkginfo /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/assetcatalog_generated_info.plist -o /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app/Info.plist36"5ECFE223-347B-4C22-9702-59BE0329877C-
+bD134FB93-A854-4558-9C08-6E35F94817AB
+
+CProcessPCH /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/PrecompiledHeaders/SpriteKitSimpleGame-Prefix-brhhmpiaptsyfdcfmznjhsjcwdbk/SpriteKitSimpleGame-Prefix.pch.pch SpriteKitSimpleGame/SpriteKitSimpleGame-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403736737.725409
+e403736737.759793
+r1
+xProcessPCH
+x/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/PrecompiledHeaders/SpriteKitSimpleGame-Prefix-brhhmpiaptsyfdcfmznjhsjcwdbk/SpriteKitSimpleGame-Prefix.pch.pch
+xSpriteKitSimpleGame/SpriteKitSimpleGame-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/SpriteKitSimpleGame-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Precompile SpriteKitSimpleGame/SpriteKitSimpleGame-Prefix.pch291"ProcessPCH DerivedData/SpriteKitSimpleGame/Build/Intermediates/PrecompiledHeaders/SpriteKitSimpleGame-Prefix-brhhmpiaptsyfdcfmznjhsjcwdbk/SpriteKitSimpleGame-Prefix.pch.pch SpriteKitSimpleGame/SpriteKitSimpleGame-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler04e6b9a18810b841^fe81c2a18810b841^---0#0#1#-19%DVTDocumentLocation2@112"file://localhost/Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/SpriteKitSimpleGame-Prefix.pch0000000000000000^4332"ProcessPCH DerivedData/SpriteKitSimpleGame/Build/Intermediates/PrecompiledHeaders/SpriteKitSimpleGame-Prefix-brhhmpiaptsyfdcfmznjhsjcwdbk/SpriteKitSimpleGame-Prefix.pch.pch SpriteKitSimpleGame/SpriteKitSimpleGame-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/TheDavid/Developer/SpriteKitSimpleGame    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/SpriteKitSimpleGame-generated-files.hmap -I/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/SpriteKitSimpleGame-own-target-headers.hmap -I/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/SpriteKitSimpleGame-all-target-headers.hmap -iquote /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/SpriteKitSimpleGame-project-headers.hmap -I/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/DerivedSources/i386 -I/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/SpriteKitSimpleGame.build/Debug-iphonesimulator/SpriteKitSimpleGame.build/DerivedSources -F/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/PrecompiledHeaders/SpriteKitSimpleGame-Prefix-brhhmpiaptsyfdcfmznjhsjcwdbk/SpriteKitSimpleGame-Prefix.pch.dia -MMD -MT dependencies -MF /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/PrecompiledHeaders/SpriteKitSimpleGame-Prefix-brhhmpiaptsyfdcfmznjhsjcwdbk/SpriteKitSimpleGame-Prefix.pch.d -c /Users/TheDavid/Developer/SpriteKitSimpleGame/SpriteKitSimpleGame/SpriteKitSimpleGame-Prefix.pch -o /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Intermediates/PrecompiledHeaders/SpriteKitSimpleGame-Prefix-brhhmpiaptsyfdcfmznjhsjcwdbk/SpriteKitSimpleGame-Prefix.pch.pch36"65075B42-3361-4D5D-A12A-D2D01842A5F1-
+bDB33F77F-BEB8-46A9-84CD-F4773361A906
+
+CProcessPCH /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Index/PrecompiledHeaders/SpriteKitSimpleGame-Prefix-cdardednovwzoqchenfflnqvljfj_ast/SpriteKitSimpleGame-Prefix.pch.pch SpriteKitSimpleGame/SpriteKitSimpleGame-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app
+s403745129.127021
+e403745129.132172
+r1
+xTouch
+x/Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection144"Touch /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app98"Touch DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app14922069a910b841^7cd62169a910b841^---0#0#1#--508"Touch DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app    cd /Users/TheDavid/Developer/SpriteKitSimpleGame    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/TheDavid/Developer/SpriteKitSimpleGame/DerivedData/SpriteKitSimpleGame/Build/Products/Debug-iphonesimulator/SpriteKitSimpleGame.app36"7897E1C2-F4F7-4619-85A0-FF1933B275A5-
+b46A0F6D0-8441-47D1-946E-3B153372BE8F
+
